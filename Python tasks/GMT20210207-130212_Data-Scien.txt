@@ -1,0 +1,143 @@
+00:06:38	SYED FARRUKH RAZA:	groupby
+00:07:56	Danish Jalbani:	Yes sir
+00:08:06	Mustufa Abbas:	yes
+00:11:58	Danish Jalbani:	yes sir
+00:18:34	MUHAMMAD WAQAR:	yes sir
+00:20:02	Danish Jalbani:	we are good sir
+00:20:06	MUHAMMAD WAQAR:	clear sir
+00:27:49	Danish Jalbani:	understood
+00:27:52	MUHAMMAD WAQAR:	default option
+00:29:14	Danish Jalbani:	sir can u show where u defined np ?
+00:29:21	MUHAMMAD WAQAR:	yes sir
+00:29:31	MUHAMMAD WAQAR:	numpy as np
+00:29:35	Danish Jalbani:	ok
+00:29:38	Danish Jalbani:	understood
+00:29:46	Syed Hasan Adil:	import pandas as pdimport numpy as npimport scipy as scimport matplotlib.pyplot as plt
+00:29:57	MUHAMMAD WAQAR:	yes sir
+00:30:19	Danish Jalbani:	thank you
+00:34:21	MUHAMMAD WAQAR:	sir to ye average hi margin hai?
+00:35:15	MUHAMMAD WAQAR:	yes sir
+00:42:15	Mustafa Abbas:	Customize Interval ho sakti hai.?
+00:44:56	Mustafa Abbas:	according to your experience Histogram sirf frequency ke liye use hota hai.
+00:44:58	Mustafa Abbas:	?
+00:46:37	Mustafa Abbas:	Yes Sir!
+00:46:39	MUHAMMAD WAQAR:	kia difference hai sir?
+00:47:30	MUHAMMAD WAQAR:	okay sir multiple values k lye
+00:48:59	Mustafa Abbas:	KE ki web pr unit consume ki Tarah :D
+00:49:04	MUHAMMAD WAQAR:	okay sir single value pe not on range
+00:49:24	Danish Jalbani:	Yes sir
+00:50:30	MUHAMMAD WAQAR:	ok sir
+00:51:18	Danish Jalbani:	ok
+00:51:18	MUHAMMAD WAQAR:	yes sir
+00:51:23	Mustafa Abbas:	Okay Sir!
+00:51:23	MUHAMMAD WAQAR:	ok sir
+00:51:41	Syed Hasan Adil:	See you after maghrib prayer
+01:01:25	MUHAMMAD WAQAR:	yes
+01:01:32	Danish Jalbani:	:D
+01:02:28	Danish Jalbani:	ok
+01:03:45	Danish Jalbani:	Chuu waa waa
+01:04:21	MUHAMMAD WAQAR:	breed
+01:04:26	MUHAMMAD WAQAR:	weights
+01:06:48	Mustafa Abbas:	Sir Jo ye hum Kar rahe hai ise Descriptive Statistics Keh sakte hai.
+01:10:57	MUHAMMAD WAQAR:	sir ye abhi filhal library use nahi hoi, builtin function hai?
+01:11:38	Mustafa Abbas:	Mean agar x or y dono data quantitative ho to humhe scatter use karna chaye warna categorical ke liye bar chart ?
+01:19:33	MUHAMMAD WAQAR:	file share karden sir
+01:22:07	MUHAMMAD WAQAR:	yes sir
+01:22:10	Mustafa Abbas:	Yup
+01:24:08	Danish Jalbani:	Doesn't look like sir
+01:24:30	Danish Jalbani:	We will need some other kind of representation
+01:26:15	Mustafa Abbas:	Regression se hat kar Agar Hum Clustering karna chaye to.?
+01:28:18	Danish Jalbani:	Clustering will be required if we are trying to reach a prediction
+01:28:20	Danish Jalbani:	?
+01:28:33	Danish Jalbani:	Ok
+01:31:03	Mustafa Abbas:	Yup
+01:31:03	Danish Jalbani:	ji sir
+01:34:43	Danish Jalbani:	:D kisey suna hai sir
+01:34:44	MUHAMMAD WAQAR:	:D
+01:34:49	MUHAMMAD WAQAR:	Sir israr
+01:38:58	MUHAMMAD WAQAR:	yes sir
+01:41:55	MUHAMMAD WAQAR:	okay sir
+01:42:05	Danish Jalbani:	understood
+01:42:14	Danish Jalbani:	Yes Sir
+01:42:15	MUHAMMAD WAQAR:	reference
+01:47:58	Danish Jalbani:	NaN araha hai
+01:51:42	MUHAMMAD WAQAR:	it should be in practice to create a copy in beginning?
+01:54:03	MUHAMMAD WAQAR:	ok sir
+01:54:32	Mustafa Abbas:	Sir yaha Numeric data missing hai to mean ya khuch or kar ke solve kia ja sakta hai agar Non-numeric data missing ho to.?
+01:55:36	Mustafa Abbas:	Yes Sir!
+01:56:07	MUHAMMAD WAQAR:	yes sir
+02:00:30	MUHAMMAD WAQAR:	clear sir
+02:00:41	Mustafa Abbas:	Ys Sir
+02:00:43	Danish Jalbani:	yes sir bismillah
+02:03:27	SYED FARRUKH RAZA:	yes sir
+02:04:01	Mustafa Abbas:	Yews
+02:04:04	Danish Jalbani:	yes
+02:04:45	Danish Jalbani:	ok sir
+02:06:30	MUHAMMAD WAQAR:	empty cells
+02:06:31	Mustafa Abbas:	missing data
+02:06:31	Danish Jalbani:	Empty fields
+02:06:39	Farhan Khan:	some fields are empty
+02:06:46	Danish Jalbani:	salary and age missing 
+02:08:26	MUHAMMAD WAQAR:	all set
+02:08:28	Danish Jalbani:	no sir
+02:08:31	SYED FARRUKH RAZA:	working
+02:10:24	Danish Jalbani:	ye sir
+02:10:24	MUHAMMAD WAQAR:	yes sir
+02:10:26	Mustafa Abbas:	Yes Sir
+02:10:49	MUHAMMAD WAQAR:	clear
+02:11:43	Danish Jalbani:	All columns - 1
+02:11:43	MUHAMMAD WAQAR:	end
+02:12:01	Danish Jalbani:	first 3
+02:12:06	MUHAMMAD WAQAR:	all independent
+02:12:22	Danish Jalbani:	yes sir
+02:13:15	Mustafa Abbas:	Yes cSir
+02:13:56	MUHAMMAD WAQAR:	yes
+02:13:59	SYED FARRUKH RAZA:	yes sir
+02:14:05	Danish Jalbani:	ji
+02:15:39	MUHAMMAD WAQAR:	yes sir
+02:17:47	MUHAMMAD WAQAR:	missing data k sath hi splitin?
+02:17:50	MUHAMMAD WAQAR:	splitting?
+02:17:52	Danish Jalbani:	clear sir
+02:18:06	MUHAMMAD WAQAR:	ok sir
+02:18:57	MUHAMMAD WAQAR:	yes
+02:20:10	MUHAMMAD WAQAR:	yes sir
+02:20:10	Mustafa Abbas:	Yes Sir
+02:21:13	Mustafa Abbas:	independent
+02:21:15	Mustafa Abbas:	Variable
+02:21:17	MUHAMMAD WAQAR:	independent
+02:23:12	MUHAMMAD WAQAR:	1 and 2
+02:24:29	MUHAMMAD WAQAR:	yes sir
+02:24:32	Mustafa Abbas:	Yes Sir
+02:24:45	MUHAMMAD WAQAR:	sir big dataset k lye koi or way hoga?
+02:25:08	MUHAMMAD WAQAR:	ok sir
+02:26:09	MUHAMMAD WAQAR:	yes
+02:26:16	MUHAMMAD WAQAR:	frequency
+02:29:41	MUHAMMAD WAQAR:	yes sir
+02:29:58	Mustafa Abbas:	Yes Sir aik Column ko transform kar ke 3 column bana diye
+02:30:51	Mustafa Abbas:	Sir mean Jitni unique value utne columns
+02:32:27	Mustafa Abbas:	definitely categorical data ke saath hota hoga?
+02:34:11	Mustafa Abbas:	Yes Sir
+02:34:13	MUHAMMAD WAQAR:	yes sir
+02:34:22	Farhan Khan:	label encoder dubara bta den
+02:35:46	Farhan Khan:	thanx
+02:36:11	MUHAMMAD WAQAR:	yes sir
+02:36:11	Danish Jalbani:	YES SIR
+02:36:15	Danish Jalbani:	no sir
+02:36:16	Mustafa Abbas:	Zinda hai :D
+02:37:16	MUHAMMAD WAQAR:	0
+02:37:22	MUHAMMAD WAQAR:	0
+02:37:36	MUHAMMAD WAQAR:	bhut bara graph
+02:37:49	Danish Jalbani:	dono ki intervals bohat vary karte hain
+02:37:51	Farhan Khan:	according to data, it can be started from any where
+02:38:26	Farhan Khan:	min max dekh bhi start ker sakty hen
+02:39:41	Danish Jalbani:	ji sir
+02:39:46	Mustafa Abbas:	mean hum scale down kar rahe hai data ko.
+02:40:53	Mustafa Abbas:	Yes Sir
+02:41:23	MUHAMMAD WAQAR:	yes sir
+02:42:15	Mustafa Abbas:	Is Tarah probability mai data ki Normal Distribution karte hai Feature Scaling bi isi ke similar hai?
+02:43:53	Danish Jalbani:	no sir
+02:44:03	MUHAMMAD WAQAR:	ok sir
+02:44:04	Danish Jalbani:	ok
+02:44:05	Mustafa Abbas:	Allah Hafiz
+02:44:07	Danish Jalbani:	thank you
+02:44:07	SYED FARRUKH RAZA:	ok sir

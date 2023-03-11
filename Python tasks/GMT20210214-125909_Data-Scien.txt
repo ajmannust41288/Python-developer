@@ -1,0 +1,151 @@
+00:03:13	Muhammad Waqar:	yes
+00:15:45	Danish Jalbani:	Flowers
+00:15:46	Danish Jalbani:	chocolates
+00:15:47	Danish Jalbani:	cake
+00:15:51	Danish Jalbani:	teddy bear
+00:15:52	Danish Jalbani:	:D
+00:15:58	Danish Jalbani:	Single logon se poochen armaan
+00:16:15	Sulaiman Jawaid:	roses
+00:18:25	Danish Jalbani:	:D
+00:18:43	umer farooq:	:D
+00:19:19	M. Waqar:	extra cost
+00:19:23	Danish Jalbani:	SO data points
+00:20:00	Danish Jalbani:	like Age bracket, region, occupation, salary or favorite pages 
+00:20:21	Danish Jalbani:	Yes sir
+00:20:31	Danish Jalbani:	Basically profiling ur audience
+00:21:04	M. Waqar:	😂
+00:21:09	Danish Jalbani:	:D
+00:21:15	M. Waqar:	sir apko xiada experience tha?🤣
+00:23:00	M. Waqar:	sir to web scrapping k through hum access kar sakte hain users ko?🤔
+00:23:17	Sulaiman Jawaid:	behsviour based targetting
+00:23:23	Danish Jalbani:	Sir is time/age a dependent factor for a model to mature? Or can models be independent of their experience ??
+00:24:55	Danish Jalbani:	NO SIR, I mean age of Prediction model
+00:25:37	Danish Jalbani:	yes sir
+00:27:08	M. Waqar:	new data
+00:28:08	M. Waqar:	what if new data behavior is changed? we need to train again?
+00:30:53	M. Waqar:	yes sir
+00:32:06	M. Waqar:	yes sir it would be better
+00:32:14	Farrukh Raza:	yes sir
+00:32:18	umer farooq:	fine
+00:32:21	Danish Jalbani:	thank you sir
+00:32:40	Syed Hasan Adil:	See you after naghrib namaz
+00:42:19	Danish Jalbani:	its an application of DATA SCIENCE 
+00:46:51	umer farooq:	we have some experience and we put into algo to train model?
+00:47:27	umer farooq:	right
+00:50:16	Mustufa Abbas:	model = mathematical equation?
+00:58:09	Muhammad Waqar:	yes
+00:59:51	Danish Jalbani:	So we know expected data
+00:59:54	Danish Jalbani:	output*
+01:00:14	Danish Jalbani:	Ji sir
+01:01:01	Muhammad Waqar:	training
+01:01:02	Danish Jalbani:	We are training the machine
+01:01:20	Danish Jalbani:	To automate, to reduce human effort/involvement
+01:02:47	Muhammad Waqar:	performance measurement
+01:04:01	Danish Jalbani:	:D lol
+01:06:55	Danish Jalbani:	to train ourselves
+01:07:16	Danish Jalbani:	ji sir
+01:07:58	Danish Jalbani:	:) Sirrrr
+01:08:34	Danish Jalbani:	hehe
+01:08:36	Danish Jalbani:	sir dono parhi hain
+01:08:45	Danish Jalbani:	very good books
+01:08:58	umer farooq:	good going sir
+01:09:58	Danish Jalbani:	Predicting Price
+01:15:37	Mustufa Abbas:	regression
+01:15:45	umer farooq:	true
+01:18:41	Danish Jalbani:	Dogs
+01:18:45	Danish Jalbani:	of 3 different breeds
+01:20:04	Danish Jalbani:	Ok sir
+01:21:53	Mustufa Abbas:	sur Un Clustering bi Technique Hoti hai?
+01:22:06	Mustufa Abbas:	Jese The Cocktail Party Problem
+01:31:09	Muhammad Waqar:	labelling manual hi rahe gi?
+01:31:44	Muhammad Waqar:	I mean clusters labelling
+01:32:00	Muhammad Waqar:	ok sir
+01:33:12	Muhammad Waqar:	seeds
+01:33:22	Muhammad Waqar:	okay sir
+01:34:21	Muhammad Waqar:	yes sir
+01:39:35	Mustufa Abbas:	sir Jesi Maths ML engineers ko Aati Hogi Aese To Data Scientist Ko Nai Aati Ho Gi?
+01:43:23	Mustufa Abbas:	outliers
+01:43:26	Danish Jalbani:	An unusual incident
+01:43:33	Muhammad Waqar:	other than normal
+01:45:11	Danish Jalbani:	gravity fluctuation in unexplored areasNo crowd on sales in a mall
+01:45:12	Mustufa Abbas:	Sir Basic Technique anomly detections ke liye "Mean" Vs "Median" hai
+01:53:14	Mustufa Abbas:	Sir Previous Class Se Aik Questions hai..
+
+Jese Hum Ne data Split kiya Tha "Simple Random Sampling" ki Technique se, to is Tareeqe se To Problem Aa Sakti Hai Under sampling ki, I mean hum aesa Data Select Karle Randomly jo ke model Ko generalize na Kar sake, To is Ki Koi Alternative Technique nai Hai?
+01:56:37	Mustufa Abbas:	Yes Samaj Aa Gaya!
+01:58:20	Danish Jalbani:	So the requirement will vary on the basis of situation. 
+01:58:45	Danish Jalbani:	yes sir
+01:59:10	Muhammad Waqar:	data weightage k hisab se 
+01:59:11	Muhammad Waqar:	?
+02:00:07	Muhammad Waqar:	yes sir
+02:01:46	umer farooq:	5 min sir
+02:01:56	Danish Jalbani:	yes sir
+02:06:15	umer farooq:	yes 
+02:07:46	umer farooq:	yes sir
+02:07:59	Danish Jalbani:	experience and salary
+02:08:09	umer farooq:	years and salary
+02:10:02	Danish Jalbani:	SUPERVISED
+02:10:14	umer farooq:	reg
+02:11:07	Danish Jalbani:	Experience = Independent
+02:11:13	Danish Jalbani:	Salary = Dependent
+02:12:02	Muhammad Waqar:	yes
+02:13:28	umer farooq:	yes
+02:15:56	Muhammad Waqar:	no sir
+02:17:56	umer farooq:	independent
+02:18:01	Muhammad Waqar:	ind
+02:18:15	Danish Jalbani:	Independent
+02:18:33	Danish Jalbani:	33.33%
+02:18:47	Danish Jalbani:	training 33% and 66% for testing ?
+02:20:27	Danish Jalbani:	okay
+02:20:37	Danish Jalbani:	Sir, a question
+02:20:45	Danish Jalbani:	how do we decide this ratio
+02:20:51	Danish Jalbani:	Like sir hassan said, we don't need to balance
+02:20:58	Danish Jalbani:	but we need to be very careful
+02:22:11	Danish Jalbani:	Is this a rule, that we have to keep TRAIN more than test
+02:25:27	Mustafa Abbas:	No Sir!
+02:25:32	umer farooq:	no
+02:28:04	Mustafa Abbas:	Experiance
+02:28:05	umer farooq:	exp
+02:28:05	Danish Jalbani:	salary
+02:28:09	Danish Jalbani:	sorry experience
+02:28:20	Danish Jalbani:	dependent variable
+02:28:21	Danish Jalbani:	Salary
+02:28:24	Muhammad Waqar:	salary
+02:32:40	Danish Jalbani:	Why did we not use TEST data for prediction
+02:33:33	Danish Jalbani:	difference hai
+02:33:40	Muhammad Waqar:	yes'
+02:36:20	Muhammad Waqar:	10
+02:36:29	Muhammad Waqar:	10
+02:36:41	Danish Jalbani:	experience
+02:36:42	Muhammad Waqar:	exp
+02:36:44	umer farooq:	 exp
+02:36:51	Danish Jalbani:	salary
+02:39:47	Muhammad Waqar:	yes sir
+02:39:49	WAJEEH UDDIN KHAN:	yes
+02:39:53	Danish Jalbani:	yes sir
+02:40:13	Muhammad Waqar:	x test
+02:40:19	umer farooq:	x test
+02:40:19	Danish Jalbani:	x test
+02:40:37	Danish Jalbani:	dependent variable ki
+02:41:06	Muhammad Waqar:	20 values di thi x train me
+02:41:24	Muhammad Waqar:	10
+02:41:24	Danish Jalbani:	10
+02:41:58	Danish Jalbani:	We are basically going to compare results between XTEST and XTRAIN
+02:42:07	Danish Jalbani:	which gives us better YPRED
+02:45:19	Muhammad Waqar:	yes sir
+02:45:51	Danish Jalbani:	yes
+02:45:55	Danish Jalbani:	if we put 3
+02:46:01	Danish Jalbani:	can we see how close it is
+02:46:23	Danish Jalbani:	ji
+02:46:55	Danish Jalbani:	yes. this is only 1 variable that's why
+02:47:36	Danish Jalbani:	yyes sir
+02:47:39	Muhammad Waqar:	yes sir
+02:48:03	Danish Jalbani:	ok
+02:48:59	Danish Jalbani:	by introducing more variables
+02:49:07	Danish Jalbani:	yes sir
+02:49:24	Muhammad Waqar:	1 variable se pattern clear nahi ho raha
+02:49:48	Muhammad Waqar:	okay sir
+02:50:51	Muhammad Waqar:	sir lekin esa possible hai real world me?
+02:51:02	Muhammad Waqar:	ok sir
+02:51:38	Muhammad Waqar:	yes sir
+02:52:03	Muhammad Waqar:	ok sir
